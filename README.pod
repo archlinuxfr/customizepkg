@@ -1,0 +1,16 @@
+=head1 NAME
+
+customizepkg - Customize PKGBUILD
+
+=head1 SYNOPSIS
+
+Usage :
+
+  customizepkg <option>
+
+	customizepkg --version, -V       shows version
+	customizepkg --help,    -h       shows this help
+	customizepkg --modify,  -m       apply the modification in PKGBUILD file
+	customizepkg --vimdiff, -v       show diff between customised file and original file with vimdiff
+
+
